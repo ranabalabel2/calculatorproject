@@ -8,6 +8,7 @@ DESCRIPTION
 UnwieldyOddballInterface is a multi-functional calculator that can solve simple equations and graph functions (linear and quadratic). 
 
 ⭐Main menu:
+
 -Calls on the calculator and graphing calculator classes
 
 -Has the ability to change the background colour and theme based on user preferences
@@ -25,6 +26,7 @@ UnwieldyOddballInterface is a multi-functional calculator that can solve simple 
 -Can print error messages (an equation that starts with an operator, an equation that contains multiple consecutive operators, dividing by zero, etc.)
 
 ⭐Graphing calculator:
+
 -Linear functions: in the form of y = mx + b; asks user for input of the slope and y-intercept
 
 -Quadratic functions: in the form of y = ax2 + bx + c; asks user for input of the a, b, and c values
