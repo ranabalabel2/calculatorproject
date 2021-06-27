@@ -7,30 +7,31 @@ Sophie Yang and Rana Balabel
 DESCRIPTION
 UnwieldyOddballInterface is a multi-functional calculator that can solve simple equations and graph functions (linear and quadratic). 
 
-Main menu:
+⭐Main menu:
 Calls on the calculator and graphing calculator classes
 Has the ability to change the background colour and theme based on user preferences
 
-Calculator:
-Can carry out simple calculations involving the four operations (+,-,*,/)
+⭐Calculator:
 
-Adheres to the rules of BEDMAS
+-Can carry out simple calculations involving the four operations (+,-,*,/)
 
-Accepts negative input (displayed as an underscore “_” on the interface) 
+-Adheres to the rules of BEDMAS
 
-Accepts decimal input
+-Accepts negative input (displayed as an underscore “_” on the interface) 
 
-Can print error messages (an equation that starts with an operator, an equation that contains multiple consecutive operators, dividing by zero, etc.)
+-Accepts decimal input
 
-Graphing calculator:
-Linear functions: in the form of y = mx + b; asks user for input of the slope and y-intercept
+-Can print error messages (an equation that starts with an operator, an equation that contains multiple consecutive operators, dividing by zero, etc.)
 
-Quadratic functions: in the form of y = ax2 + bx + c; asks user for input of the a, b, and c values
+⭐Graphing calculator:
+-Linear functions: in the form of y = mx + b; asks user for input of the slope and y-intercept
 
-X-axis ranges from -30 to +30; y-axis ranges from -35 to +35
+-Quadratic functions: in the form of y = ax2 + bx + c; asks user for input of the a, b, and c values
 
-Each box represents an interval of 5
+-X-axis ranges from -30 to +30; y-axis ranges from -35 to +35
 
-Can handle bad input 
+-Each box represents an interval of 5
 
-Prints out the function in an animation
+-Can handle bad input 
+
+-Prints out the function in an animation
