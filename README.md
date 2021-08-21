@@ -1,5 +1,5 @@
 NAME
-UnwieldyOddballInterface (name inspiration from replit.com 🥰)
+TriCalculator
 
 AUTHORS
 Sophie Yang and Rana Balabel
