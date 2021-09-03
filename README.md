@@ -5,7 +5,7 @@ AUTHORS
 Sophie Yang and Rana Balabel
 
 DESCRIPTION
-UnwieldyOddballInterface is a multi-functional calculator that can solve simple equations and graph functions (linear and quadratic). 
+a multi-functional calculator that can solve simple equations and graph functions (linear and quadratic). 
 
 ⭐Main menu:
 
