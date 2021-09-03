@@ -13,18 +13,6 @@ a multi-functional calculator that can solve simple equations and graph function
 
 -Has the ability to change the background colour and theme based on user preferences
 
-⭐Calculator:
-
--Can carry out simple calculations involving the four operations (+,-,*,/)
-
--Adheres to the rules of BEDMAS
-
--Accepts negative input (displayed as an underscore “_” on the interface) 
-
--Accepts decimal input
-
--Can print error messages (an equation that starts with an operator, an equation that contains multiple consecutive operators, dividing by zero, etc.)
-
 ⭐Graphing calculator:
 
 -Linear functions: in the form of y = mx + b; asks user for input of the slope and y-intercept
@@ -38,3 +26,17 @@ a multi-functional calculator that can solve simple equations and graph function
 -Can handle bad input 
 
 -Prints out the function in an animation
+
+⭐Calculator:
+
+-Can carry out simple calculations involving the four operations (+,-,*,/)
+
+-Adheres to the rules of BEDMAS
+
+-Accepts negative input (displayed as an underscore “_” on the interface) 
+
+-Accepts decimal input
+
+-Can print error messages (an equation that starts with an operator, an equation that contains multiple consecutive operators, dividing by zero, etc.)
+
+
